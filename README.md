@@ -54,7 +54,7 @@ Junior Front-End Developer | Systems Analysis and Development Student
 class MyJourney {
   final String currentRole = "Junior Front-End Developer";
   final List<String> expertise = ["Flutter", "Dart", "Mobile Development"];
-  final List<String> studying = ["Delphi", "Data Structures", "Databases"];
+  final List<String> studying = ["Java", "Data Structures", "Databases", "CSS", "JavaScript"];
   final String nextGoal = "Full Stack Developer";
   
   void codeLikeBatman() {
