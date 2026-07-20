@@ -73,7 +73,7 @@ class MyJourney {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=polarStrxt&color=grey&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=jotaromaro0-art&color=grey&style=flat-square&label=Profile+Views" />
 </div>
 
 <div align="center">
