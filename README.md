@@ -21,18 +21,20 @@ Junior Front-End Developer | Systems Analysis and Development Student
 - 🌱 Learning: Java, Data Structures, Databases
 - 🎯 Goal: become a Full Stack Developer
 
-## Technologies
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=delphi&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+## 🚀 My Skills
 
-
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 ## Current Focus
 - 📚 Deep diving into **Java** and **Back-End**
@@ -40,10 +42,8 @@ Junior Front-End Developer | Systems Analysis and Development Student
 - 🚀 Preparing to become a **Full Stack Developer**
 
 ## GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jotaromaro0-art&theme=dark&show_icons=true&hide_border=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaromaro0-art&layout=compact&theme=dark&hide_border=true" />
-</div>
+[![Gmail Badge](https://img.shields.io/badge/jotaromaro0@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jotaromaro0@gmail.com)](mailto:jotaromaro0@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([https://github.com/jotaromaro0-art/jotaromaro0-art])
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotaromaro0-art&theme=dark&hide_border=true" />
@@ -62,20 +62,17 @@ class MyJourney {
   }
 }
 ```
-
 ## Contact
-- 📧 Email: [jotaromaro0@gmail.com](mailto:jotaromaro0@gmail.com)
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jotaromaro0@gmai.com" alt="Gmail"/></a>
+</p>
 
 ## Latest Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jotaromaro0-art&color=grey&style=flat-square&label=Profile+Views" />
-</div>
-
 <div align="center">
   <i>"In the darkness, we find our true potential" 🦇</i>
 </div>
